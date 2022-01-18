@@ -7,26 +7,26 @@
     },
     {
         "key": "MDC",
-        "latitude": 50.4108,
-        "longitude": 4.4446,
+        "latitude": 1.623477736599909,
+        "longitude": 103.6519262264687,
         "name": "MDC"
     },
     {
         "key": "PAM",
-        "latitude": 41.881832,
-        "longitude": -87.623177,
+        "latitude": 14.17589751066264,
+        "longitude": 121.1204682146297,
         "name": "PAM"
     },
     {
         "key": "STC",
-        "latitude": 32.7767,
-        "longitude": -97.040443,
+        "latitude": 1.291090399653533,
+        "longitude": 103.7847045976343,
         "name": "STC"
     },
     {
         "key": "STL",
-        "latitude": 50.110924,
-        "longitude": 8.682127,
+        "latitude": 31.212181948951965,
+        "longitude": 121.47712094344723
         "name": "STL"
     }
 ]
